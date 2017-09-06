@@ -1,4 +1,4 @@
-# Updated React Redux template
+# React-redux app using middleware
 
 Personal use only
 
